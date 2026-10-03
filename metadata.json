@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Resource Exchange",
+  "description": "Privacy-first B2B industrial symbiosis platform for matching surplus materials with buyer requirements, automated logistics, and hub privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
